@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IOI &apos;98 P4 - Picture/main.cpp"
+            timestampString = "595637116.647405"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "solve()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "solve()"
+                  moduleName = "IOI &apos;98 P4 - Picture"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jasonuts/Documents/Documents/Coding/IOI%20&apos;98%20P4%20-%20Picture/IOI%20&apos;98%20P4%20-%20Picture/main.cpp"
+                  timestampString = "595637116.9095531"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "solve()"
+                  moduleName = "IOI &apos;98 P4 - Picture"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jasonuts/Documents/Documents/Coding/IOI%20&apos;98%20P4%20-%20Picture/IOI%20&apos;98%20P4%20-%20Picture/main.cpp"
+                  timestampString = "595637116.9146709"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "125">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
